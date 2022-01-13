@@ -77998,6 +77998,17 @@
         "twitter": "https://twitter.com/TattedFaceJoey",
         "website": "https://linktr.ee/TattedFaceJoey"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Eknc379wsuM24aYvsSADP6ZYHjwJVHUm8V2w2Htoj5Zi",
+      "symbol": "DLC",
+      "name": "Dontlookcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/RyanKietzmann5556/crypto/main/DONTLOOOkMINI.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
